@@ -1,6 +1,6 @@
 ---
-title: Welcome to Quartz
+title: Bem vindo a Iaiakedemy
 ---
+Registrando e falando.
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+comece por aqui: [[proposito-objetivo-conceito]]
