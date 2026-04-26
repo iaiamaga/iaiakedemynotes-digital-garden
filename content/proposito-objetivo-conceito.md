@@ -5,13 +5,14 @@ modified: 2026-04-25
 draft: false
 tags:
 ---
- 
+
 ## IaiaKedemy é um espaço?
 
 Metaforicamente é sim, é um espaço externo, interno e digital para aprender e compartilhar/registrar meus processos nisso.
 
 #### de onde vem esse termo?
-Iaia vem do meu apelido (meu nome é Iara com i, aliás), e eu fiz modificações no termo "academy" misturando com o termo antecessor "Akadēmeia" adaptando pra sonoridade falada do brasileiro com ak**e**demy ao invés de ak**a**demy. (curiosidade inútil: adoro as letras K e Y). 
+
+Iaia vem do meu apelido (meu nome é Iara com i, aliás), e eu fiz modificações no termo "academy" misturando com o termo antecessor "Akadēmeia" adaptando pra sonoridade falada do brasileiro com ak**e**demy ao invés de ak**a**demy. (curiosidade inútil: adoro as letras K e Y).
 
 Sem mais delongas... é esse o nome que sou para o aglomerado de processos de aprendizagem que o meu processo de aprendizagem toma. A ideia é que a iaiakedemy se desenvolva se auto-registrando e validando (e tlvz, consequentemente possa futuramente inspirar, ensinar e conectar), tudo com base no compartilhamento de informações e conhecimento de forma aberta.
 
@@ -22,7 +23,8 @@ Sem mais delongas... é esse o nome que sou para o aglomerado de processos de ap
 - Interno -> aprender comigo mesma, auto-observação, emoções pensamentos sensações, corpo mente e coração, interações/contato internas.
 
 - Digital -> cyberespaço de registro e compartilhamento de informações e processo de aprendizagem, troca e busca por informações, materiais, referencias e inspirações, contato global.
---- 
+
+---
 
 ## O que a iaikedemy não é:
 
@@ -47,6 +49,7 @@ hehe ok acho que gosto um tantão dessa brincadeira de definir ou polir o entend
 ---
 
 ## pilares ou palavras-chave:
+
 (ainda não estou certa disso. porém que esses conceitos me acompanham me acompanham mesmo)
 
 1. Colaboração Imaginação Adaptação
@@ -55,28 +58,25 @@ hehe ok acho que gosto um tantão dessa brincadeira de definir ou polir o entend
 4. Conexão Diversão Presença
 5. Prática co-criação Constância
 
---- 
-### Breve troca de ideia sobre o que eu tento implementar no meu processo de aprendizagem
-confesso que sou um pouco traumatiza da com o termo "estudar" da forma que aprendi na escola tradicional. Mas atualmente, depois de ter passado por algumas escolas ([[escolas-passadas]]) e algumas metodologias e filosofias diferentes quero ver o que emergirá do meu processo de estudo atual. 
+---
 
-Como eu havia dito anteriormente essencialmente tudo na iaiakedemy (e penso eu, no universo todo) começou com um experimento. A própria iaiakedemy é um experimento por si só. 
+### Breve troca de ideia sobre o que eu tento implementar no meu processo de aprendizagem
+
+confesso que sou um pouco traumatiza da com o termo "estudar" da forma que aprendi na escola tradicional. Mas atualmente, depois de ter passado por algumas escolas ([[escolas-passadas]]) e algumas metodologias e filosofias diferentes quero ver o que emergirá do meu processo de estudo atual.
+
+Como eu havia dito anteriormente essencialmente tudo na iaiakedemy (e penso eu, no universo todo) começou com um experimento. A própria iaiakedemy é um experimento por si só.
 
 Eu defini que o primeiro experimento que farei e me dedicarei na iaiakedemy é aprender a aprender, testando para saber qual é um processo que funcione para mim, o que eu tenho em mente é:
 
 - Imaginação + Conexão: Integrar ao invés de segregar, lembro que li isso nos princípios da permacultura e me faz muito sentido. Integrar os estudos com a imaginação torna a aprendizagem mais eficiente; ajuda no entendimento e a memória sobre o assunto; torna a coisa divertida portanto proporciona mais sentido; conecta assuntos, experiencias, interesses, metáforas, analogias, pespectivas proporcionando mais profundidade do que se percebe; a visão de conectar, integrar, assimilar, juntar, é a forma mais eficaz de entender qualquer coisa, pois é um padrão que se repete na nossa realidade, tudo é conectado e interdependente, veja os próprios neurônios funcionam assim, logicamente os conhecimentos também são, entender isso é pular uma grande frustração e economiza tempo.
-    - alias, Criei dois personagens que me acompanham, me fazendo rir, relembrar de coisas ou melhorando meu astral: Tem o interrogação, a representação da curiosidade (o olho aberto e grande) e da sabedoria que nada pelas informações (por isso a cauda), ajuda com conselhos direcionamentos e algumas implicancias, é um grande parceiro. e a minha representação muito caricata e catoonizada: SI, é ela gosta de ser chamada de assim, que pode ser interpretada de algumas maneiras: science iaia ou iara, scientist Iara ou Iaia, super inteligent, super iaia ou iara, super interessada, enfim ela gosta de brincar com as possibilidades, as vezes viaja. tanto que ela é uma cientista maluca com tudo que tem direito: megalomania, costumes estranhos, exentrica, invenções e hipoteses malucas, cabelos bagunçados e um jaleco estilizado.
-    
+  - alias, Criei dois personagens que me acompanham, me fazendo rir, relembrar de coisas ou melhorando meu astral: Tem o interrogação, a representação da curiosidade (o olho aberto e grande) e da sabedoria que nada pelas informações (por isso a cauda), ajuda com conselhos direcionamentos e algumas implicancias, é um grande parceiro. e a minha representação muito caricata e catoonizada: SI, é ela gosta de ser chamada de assim, que pode ser interpretada de algumas maneiras: science iaia ou iara, scientist Iara ou Iaia, super inteligent, super iaia ou iara, super interessada, enfim ela gosta de brincar com as possibilidades, as vezes viaja. tanto que ela é uma cientista maluca com tudo que tem direito: megalomania, costumes estranhos, exentrica, invenções e hipoteses malucas, cabelos bagunçados e um jaleco estilizado.
 - Teoria + Prática: Sabe aquele ditado "na prática a teoria é outra", poise por isso é importante demais praticar, no processo da prática podemos perceber o que não entendemos muito bem e o que conseguimos entender, tras mais sentido para a teoria e para o assunto em si, tornando visível a presença e utilidade daquele conhecimento, a integração com um conglomerado de informações, usar o pensamento crítico e lógico para cumprir a prática reforça o entendimento da teoria, e criar algo é sempre legal. Por isso quero implementar no meu processo do dia a dia de uma forma que se encaixe no meu tempo de cada estudo a teoria e logo depois a pratica, mas falando serio na atualidade isso anda sendo um desafio pois eu não ando conseguindo conciliar ambos no meu tempo e as vezes sinto que por ser desconfortavel p mim praticar e falhar e lidar com minha insegurança (so na imginação pq na hora mesmo é de boa e até prazeroso pq eventualmente eu melhoro) acabo sem querer fugindo disso.
- 
+
 - Adaptação e Constância: sem esses dois nada perdura, até pq as coisas se movimentam, tem aquele famoso dizer "a única constancia no universo é constante inconstância"; para aprender algo ou muitas coisas isso é fundamental. Dependendo da ocasião o estudo vai ser diferente, as vezes pode ser atrapalhado, muitas coisas podem acontecer, então é preciso usar a criatividade e tornar o estudo flexível, e não deixar a constância para trás, ela é essencial para qualquer coisa continuar ne...
- 
+
 - Explicar para entender: essa funciona e muito, por isso (entre outros motivos) é legal estudar junto, quando se explica algo é preciso repassar tudo o que absorvemos e comunicar de forma coerente e compreensível, muitas vezes traduzimos o que vimos e agregamos valor para nosso próprio entendimento pois conectamos outros pensamentos com os pensamentos conceitos etc do assunto estudado.
 
-
-
->  A sede por conhecimento não pode parar, que vários poços de conhecimento apareçam pelo caminho, cuidado para não se perder, nem se afogar, nem beber de poço contaminado.
-
-
+> A sede por conhecimento não pode parar, que vários poços de conhecimento apareçam pelo caminho, cuidado para não se perder, nem se afogar, nem beber de poço contaminado.
 
 IaiaKedemy é um espaço de aprendizagem, registro e desenvolvimento, onde o processo de aprender é simultaneamente o material e a metodologia. Minha intenção é que seja tipo um "currículo" vivo se auto-documentando, validando e impulsionando o desenvolvimento em prol de melhorar o meu proprio sistema interno e externo de aprendizagem.
 

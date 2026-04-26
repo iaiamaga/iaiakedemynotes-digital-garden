@@ -6,7 +6,6 @@ draft: false
 tags:
   - example-tag
 ---
- 
 
 No começo do fim de 2025 eu me vi completamente perdida no quesito de estudos, e eu queria concretizar a iaiakedemy, mas não podia pois eu não fazia o que a ideia propunha no meu dia a dia, porque não sabia fazer. Eu era cheia de ideias e teorias mas havia uma lacuna de prática que não me permitia prosseguir com a ideia da iaiakedemy, então resolvi deixar essa ideia (iaiakedemy) em processo de gestação, eu precisava maturar umas coisas.
 
@@ -22,4 +21,3 @@ bom os temas atuais são:
 - Programação → estou começando a aprender backend e resolvi aprender rust e focar nisso e em aplicações voltadas especialmente para a web3, utilizo materiais de plataforma aberta como codigo brazuca academy, a plataforma [dio.me](http://dio.me) e outros materiais abertos
 - Klever academy →
 - Shefi School →
-

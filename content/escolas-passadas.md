@@ -5,10 +5,11 @@ modified: 2026-04-25
 draft: false
 tags:
 ---
- 
+
 # **Breve Arquivo de Experiências Academicas**
 
-além das escolas eu falo também sobre alguns eventos ou participações nesse meio que eu carrego comigo até hoje. 
+além das escolas eu falo também sobre alguns eventos ou participações nesse meio que eu carrego comigo até hoje.
+
 ## **AEN - Associação Educacional de Niterói**
 
 Esta foi a primeira escola em que estudei, do jardim de infância ao primeiro ano do ensino fundamental. Foi uma boa introdução a escola, sempre muito respeitosa e inclusiva. O evento mais legal que me lembro foi uma oficina de bolota de sementes que eu e meu pai fizemos com a minha turma, foi uma experiência muito legal compartilhar essa prática que faziamos em casa. De tanto lançar bolotas de semente em um terreno baldio que ficava no caminho em que eu e meu pai faziamos de bicicleta, o lugar atualmente é repleto de árvores, esse ato simplório nutriu e nutre um sentimento de pertencimento colaborativo não só como cidadã mas como parte do ecosistema, isso é muito bom eu recomendo a tod@s.
@@ -68,9 +69,9 @@ Vou ser curta aqui, mas essa escola me ensinou coisas além das palavras. Aprend
 04/09/2024
 
 ## Colégio Municipal do Sana
-sim, de novo, eu voltei pra essa. 
-2025
 
+sim, de novo, eu voltei pra essa.
+2025
 
 # coisas que me marcaram no período escolar:
 
@@ -94,11 +95,11 @@ data: 2024
 No começo de 2025 no Colégio Municipal do Sana fui convidada a participar do programa meninas e mulheres na ciência ocm bolsa pela FAPERJ, o que me empolgou nem foi a bolsa mas sim a possibilidade de ter algo mais estimulante para fazer na escola. Participei de um encontro de paletras da UFRJ, UENF e a defesa civil na instituição do colégio, foi muito legal todas as palestras. Depois de um tempo foi organizada a ida para a instituição da UENF em Macaé, foi super bacana visitar a universidade, ver a estação meteorológica, as salas de aula, e os computadores com gráficos meteorológicos, me senti como quando eu ia para a o laboratório no Índio Amigo. Fiquei muito empolgada a participar das atividades programadas, as propostas eram muito alinhadas com coisas que eu gosto de falar e pesquisar. No fundo no fundo me sinto ciêntista mesmo ainda não tendo nenhuma formação
 data: 2025
 
-
 ## **Cursos de Programação**
 
 Entrei de verdade nessa jornada de aprender programação por entender seu propósito, confesso que ainda é bem desafiante para mim, mas tenho muitas ideias doque fazer com esse conhecimento, que é muito vasto aliás, então o mais desafiador é manter a calma para não atropelar os processos, pois já nem terminei de aprender a fazer uma coisa e já quero fazer outras 5. Fiz já alguns sites (5 se não me engano) e aplicações de teste, no momento estou na etapa de lidar com erros contantes e com o sentimento extremo de frustração que vem junto. Aplicando a prática da resiliência e persistência pretendo passar para próxima dificuldade com leveza e alegria, pois tenhos muitos planos pela frente, muito a contribuir! O que eu mais gosto nessa "coisa" de internet é a possibilidade de fazer conexções, principalmente por meio de contribuições, isso me enche de esperança e possibilidades.
 data: 2025-2026
 
 # NO momento presente
+
 eu estou nesse momento aqui: [[iaiakedemy-aprendo-a-aprender]]
