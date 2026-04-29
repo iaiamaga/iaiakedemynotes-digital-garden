@@ -8,7 +8,7 @@ tags:
 
 # Primeira nota
 
-Alô marciano é a versão abrasileirada de "Hello World".
+Alô marciano é a versão abrasileirada de "Hello World". [Alô, alô, marciano](https://www.youtube.com/watch?v=yxc4LGmbqgc)
 
 Eu gostaria de deixar claro o que **hoje** percebo como a essência da iaiakedemy: experimentação. É meu espaço aberto e seguro para experimentar e entender coisas, da forma mais geral que você possa imaginar.
 
