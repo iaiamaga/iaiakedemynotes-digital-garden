@@ -16,7 +16,6 @@ No momento que estou escrevendo isso não faço ideia do que vou escrever depois
 
 ## Agora vou testar linkar com outra nota:
 
-[[hohoho]] -> uma nota aleatória e humorística sobre onomatopeias ou formas de rir por texto em diferentes lugares....
-[[proposito-objetivo-conceito]] -> nota que dialoga um pouco (ou muito... o necessário) sobre o que é iaiakedemy e consequentemente os motivos pelo qual tenho muito carinho e animação por essa ideia.
+[[proposito-objetivo-conceito]] -> nota que dialoga um pouco sobre o que é iaiakedemy.
 
-adiconando alfo
+[[ciclo1macro-estudos-experimentando]]

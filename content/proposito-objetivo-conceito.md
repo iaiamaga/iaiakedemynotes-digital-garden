@@ -5,7 +5,6 @@ modified: 2026-04-25
 draft: false
 tags:
 ---
-
 ## IaiaKedemy é um espaço?
 
 Metaforicamente é sim, é um espaço externo, interno e digital para aprender e compartilhar/registrar meus processos nisso.
