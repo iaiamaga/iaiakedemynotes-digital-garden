@@ -1,0 +1,12 @@
+- desenvolver app android https://developer.android.com/
+- stich + mcp workflow: https://pasqualepillitteri.it/en/news/647/google-stitch-mcp-export-claude-code-design-to-code
+- stich docs + setup and authentication: https://stitch.withgoogle.com/docs/mcp/setup/
+- git subtree: https://medium.com/@andrejkurocenko/merging-multiple-repositories-into-a-monorepo-using-git-subtree-without-losing-history-0c019046498e
+	- https://spin.atomicobject.com/git-subtree-migrating-repo/
+	- git submodules vs git subtree: https://opensource.com/article/20/5/git-submodules-subtrees
+		- https://blog.summitto.com/posts/submodules_subtree_subtrac/
+- como voltar a versões do repo: 
+	- https://git-scm.com/docs/git-bisect
+	- https://gist.github.com/silent1mezzo/1670623
+	- https://www.reddit.com/r/github/comments/1ke1z2a/how_to_revert_back_to_an_earlier_state_of_my_code/?tl=pt-br
+- https://www.rocketseat.com.br/blog/artigos/post/rotas-protegidas-react-router-jwt

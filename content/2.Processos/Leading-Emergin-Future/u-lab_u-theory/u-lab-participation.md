@@ -1,0 +1,1 @@
+Desde o ano passado venho participando do U-lab na U-school + MITcouses, estudando sobre U theory de Ottosharmer me sinto diferente. as vezes preciso ate um tempo para digerir. me sinto
