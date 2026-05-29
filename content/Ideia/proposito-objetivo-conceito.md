@@ -89,4 +89,4 @@ Desde o fundamental surge em mim o anseio de descobrir as verdades da realidade,
 - Aprendizagem por **deriva cognitiva** - permitir que os interesses e necessidades guiem o caminho
 - AUTONOMIA
 
-[[Ideia/iaiakedemy-aprendo-a-aprender]]
+[[private/Ideia/iaiakedemy-aprendo-a-aprender]]

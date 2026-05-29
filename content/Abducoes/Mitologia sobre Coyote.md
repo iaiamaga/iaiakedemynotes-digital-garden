@@ -1,4 +1,4 @@
-Tags: [[Kayota]] [[América, Latina e no-latina]], [[Abducoes/Los_Navajos]]
+Tags: [[Kayota]] [[América, Latina e no-latina]], [[private/Abducoes/Los_Navajos]]
 
 
 **Coyote** tiene varios significados según el contexto:

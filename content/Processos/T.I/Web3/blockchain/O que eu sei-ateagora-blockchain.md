@@ -73,7 +73,7 @@ Antes de falar de rollups preciso esclarecer o que são layers e quais são eles
 - Layer 0 -> P2P network 
 - Hardware layer -> a parte fisica da parada
 
-[[Processos/T.I/Web3/blockchains-explicacao1.excalidraw]]
+[[private/Processos/T.I/Web3/blockchains-explicacao1.excalidraw]]
 
 ## Rollups 
 pelo o que eu entendi são estratégias que definem como/por quem vão ser feitas as validações (consenso). Tipos: 

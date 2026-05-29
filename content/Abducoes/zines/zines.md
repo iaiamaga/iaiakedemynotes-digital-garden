@@ -1,5 +1,5 @@
 # Versão revisada (suave, mais fluida e consistente)
-exemplos: [[Abducoes/zines/Zines-exemplos]]
+exemplos: [[private/Abducoes/zines/Zines-exemplos]]
 ### ...
 ## p1
 

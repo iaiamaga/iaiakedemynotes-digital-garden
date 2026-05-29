@@ -9,8 +9,8 @@ tags:
 
 Plano: [[Processos/EnsinoMedio-Autodidata/0.plano/cienciasnatu/biologia_plano-pareto]]
 
-[[Processos/EnsinoMedio-Autodidata/cinenc-natureza/biologia/1.informacao-genetica-e-expressao]]
-[[Processos/EnsinoMedio-Autodidata/cinenc-natureza/biologia/2.Evolução e seleção natural]]
-[[Processos/EnsinoMedio-Autodidata/cinenc-natureza/biologia/3.Energia e metabolismo]]
-[[Processos/EnsinoMedio-Autodidata/cinenc-natureza/biologia/4.Célula como sistema]]
-[[Processos/EnsinoMedio-Autodidata/cinenc-natureza/biologia/5.Ecologia e redes biológicas]]
+[[private/Processos/EnsinoMedio-Autodidata/cinenc-natureza/biologia/1.informacao-genetica-e-expressao]]
+[[private/Processos/EnsinoMedio-Autodidata/cinenc-natureza/biologia/2.Evolução e seleção natural]]
+[[private/Processos/EnsinoMedio-Autodidata/cinenc-natureza/biologia/3.Energia e metabolismo]]
+[[private/Processos/EnsinoMedio-Autodidata/cinenc-natureza/biologia/4.Célula como sistema]]
+[[private/Processos/EnsinoMedio-Autodidata/cinenc-natureza/biologia/5.Ecologia e redes biológicas]]

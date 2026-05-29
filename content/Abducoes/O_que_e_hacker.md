@@ -3,7 +3,7 @@
 Hacker é um termo utilizado para denominar indivíduos que utilizam de ideias engenhosas para desenvolver soluções ou atingir objetivos dentro de um sistema. 
 
 E que definitivamente é bizarro como a maioria das fontes cita apenas homens da área. 
-[[Abducoes/Mulheres_hackers_existem]]
+[[private/Abducoes/Mulheres_hackers_existem]]
 ## Conceito e Etimologia 
 
 Na língua inglesa, a palavra deriva do verbo _to hack_, que significa "cortar grosseiramente", como um machado ou um facão. Usado como [substantivo](https://pt.wikipedia.org/wiki/Substantivo "Substantivo"), _hack_ significa "gambiarra" — uma solução improvisada, mais ou menos original ou engenhosa.

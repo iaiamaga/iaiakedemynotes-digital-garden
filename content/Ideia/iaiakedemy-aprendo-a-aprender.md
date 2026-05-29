@@ -4,7 +4,6 @@ created: 2026-04-25
 modified: 2026-04-25
 draft: false
 tags:
-  - example-tag
 ---
 
 No começo do fim de 2025 eu me vi completamente perdida no quesito de estudos, e eu queria concretizar a iaiakedemy, mas não podia pois eu não fazia o que a ideia propunha no meu dia a dia, porque não sabia fazer. Eu era cheia de ideias e teorias mas havia uma lacuna de prática que não me permitia prosseguir com a ideia da iaiakedemy, então resolvi deixar essa ideia (iaiakedemy) em processo de gestação, eu precisava maturar umas coisas.

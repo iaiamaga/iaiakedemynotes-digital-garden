@@ -7,10 +7,10 @@ como uma ferramenta de empoderamento, permitindo que indivíduos compartilhem su
 ![[indicacoes-livros-zine.webp]]
 
 
-# [[Abducoes/zines/PQ gosto nos zines]]
+# [[private/Abducoes/zines/PQ gosto nos zines]]
 
 
-## [[Abducoes/zines/História]] 
+## [[private/Abducoes/zines/História]] 
 
 fanzines eram a cola social que criou uma comunidade a partir de uma dispersão mundial de leitores e criadores. 
 

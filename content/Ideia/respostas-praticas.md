@@ -1,0 +1,13 @@
+---
+about: sobre respostas para perguntas que o claude fez
+created: 2026-05-28 23:19:50.5050-03:00
+modified: 2026-05-28 23:20:14.1414-03:00
+draft: false
+tags:
+  - histórico
+  - ciclomacro
+---
+1. o que mudou do inicio pro fim?
+	-  no começo eu estava muito desmotivada, tinha vontade mas estava desacreditada de mim e muito desesperada para sair dos loops de vicios comportamentais. agora, no fim, eu me sinto QUASE (pq certos traços continuam) o oposto, todo dia minha gana aumenta ou pelo menos não diminui. eu ainda me pego desesperada mas em outros aspectos, e me sinto mais no caminho do que quando começei o notebook. mais do que isso!! eu tenho registro de que estou no caminho e isso me deixa tão feliz, pq posso provar para mim mesma que eu não estava blefando e que nao desisti. o que me leva a estar mais crente de mim. observei padrões e isso vem se tornando um hábito, quase não preciso escrever mais, só algumas coisas pontuais, além disso estou me expressando melhor comigo e com os outros. escrever tem sido muito bom por isso. sinto que estou saindo de certos loops, mas ainda não vejo isso claramente. certas coisas se repetem, mas eu lido de forma diferente o que é um avanço que reconheço e comemoro, mas longe de querer me acomodar nisso. 
+2. O que o caderno me ensinou sobre como aprendo? 
+	- me mostro que aprendo na prática, pois muitas das coisas que escrevi e tal eu já sabia antes, mas só na teoria, sem ter uma experiencia prática real para lembrar de como foi na pele a trajetória. isso não só no aspecto comportamental como também em assuntos de estudo, apesar de claramente seguir assustada com o desconforto de errar. também me ensinou que o processo PRECISA não ser ruim nem desgastante nem sofrido. aprendi tambem que aparecer todo dia independente das vergonhas e das sensações/pensamentos momentaneos é uma ótima prática. 

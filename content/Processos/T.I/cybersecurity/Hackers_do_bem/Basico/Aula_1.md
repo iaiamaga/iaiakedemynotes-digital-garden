@@ -1,6 +1,6 @@
 tags:
 [[Processos/T.I/cybersecurity/Hackers_do_bem/Hackers_do_bem]]
-[[Processos/T.I/cybersecurity/Hackers_do_bem/Basico/1|Leitura_Ebook]]
+[[private/Processos/T.I/cybersecurity/Hackers_do_bem/Basico/1|Leitura_Ebook]]
 [[Abducoes/O_que_e_hacker]]
 
 # Categorias de Hackers

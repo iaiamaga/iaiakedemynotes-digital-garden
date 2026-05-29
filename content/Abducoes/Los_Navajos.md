@@ -1,5 +1,5 @@
 Tags: 
-[[Abducoes/Mitologia sobre Coyote]]
+[[private/Abducoes/Mitologia sobre Coyote]]
 [[Kayota]]
   
 the Navajo people are one of the largest Native American tribes. they originally refer to themselves as de ;;ne;; meaning "the people" they became known as the Navajo after interacting with Spanish. Navajo is a Spanish adaptation of the tiwa peblo word Navajo meaning Farm fields in the valley the Navajo language is a southern athabascan language of the NA Family the language comprises two Geographic mutually intelligible dialects the Apache language is closely related to the Navajo language as the navajos and Apaches migrated from

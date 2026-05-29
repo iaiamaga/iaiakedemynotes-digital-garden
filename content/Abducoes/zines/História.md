@@ -39,7 +39,7 @@ No dia [^4]**12 de outubro de 1965**, em **Piracicaba**, o desenhista [^3]**
 
 O termo "fanzine" só passou a ser utilizado oficialmente em 1971, após sugestão de um clube de colecionadores franceses.
 
-**Década de 1970:**  A [^5]**Geração Mimeógrafo**, também conhecida como **Poesia Marginal**, foi um movimento de contracultura que eclodiu no Brasil durante a **década de 1970**, impulsionado pela **censura imposta pela Ditadura Militar**.  Poetas e artistas, como [^6][[Abducoes/zines/Paulo Leminski]], **Ana Cristina César** e **Chacal**, rejeitaram o circuito editorial tradicional e utilizaram o **mimeógrafo** para produzir e distribuir obras de forma artesanal, vendendo-as **de mão em mão** em ruas e bares. 
+**Década de 1970:**  A [^5]**Geração Mimeógrafo**, também conhecida como **Poesia Marginal**, foi um movimento de contracultura que eclodiu no Brasil durante a **década de 1970**, impulsionado pela **censura imposta pela Ditadura Militar**.  Poetas e artistas, como [^6][[private/Abducoes/zines/Paulo Leminski]], **Ana Cristina César** e **Chacal**, rejeitaram o circuito editorial tradicional e utilizaram o **mimeógrafo** para produzir e distribuir obras de forma artesanal, vendendo-as **de mão em mão** em ruas e bares. 
 
 Essa estratégia permitiu uma **expressão livre e subversiva**, contornando a repressão estatal e as limitações das grandes editoras, que censuravam temas políticos e sociais.  A produção caracterizou-se pela **linguagem coloquial**, **ironia**, **descompromisso com o cânone acadêmico** e uma estética que buscava **dessacralizar a poesia**, aproximando-a do cotidiano urbano e da vida real. 
 
@@ -81,7 +81,7 @@ Após o fim do Bikini Kill, Hanna levou a ética _do-it-yourself_ (faça você
 
 
 ## A Era Digital e o Ressurgimento Tátil (2000 - Presente)
-![[Abducoes/zines/Zine-Fest-2025-digital-07.09.25.webp]]
+![[private/Abducoes/zines/Zine-Fest-2025-digital-07.09.25.webp]]
 
 Com a popularização da internet e dos computadores, os zines quase foram perdendo potência no fim dos anos 90, mas retornaram com força total no séc.21 como um "respiro" contra o cansaço das telas.
 Após um período de declínio com a ascensão da internet, os zines estão vivendo um forte ressurgimento. Essa nova onda é impulsionada por uma fadiga do digital, busca de autenticidade, comunidade e liberdade criativa total.
