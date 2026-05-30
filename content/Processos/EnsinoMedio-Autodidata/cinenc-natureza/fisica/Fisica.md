@@ -1,7 +1,7 @@
 plano: [[Processos/EnsinoMedio-Autodidata/0.plano/cienciasnatu/fisica_plano-pareto]]
 
-[[0. Dinamica Conceitos fundamentais]]
-[[1. Leis de Newton e conservação]]
+[[0.Dinamica Conceitos fundamentais]]
+[[1.Leis de Newton e conservação]]
 [[2.Trabalho e energia]]
 [[3.Campos e interações]]
 [[4.Oscilações e ondas]]
