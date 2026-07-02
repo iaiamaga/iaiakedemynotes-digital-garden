@@ -37,7 +37,7 @@ erros comuns;
     – Princípio de Le Châtelier  
     – pH e força de ácidos e bases
     
-###### Anotações: [[Processos/EnsinoMedio-Autodidata/cinenc-natureza/quimica/Quimica]]
+###### Anotações: [[Quimica]]
 
 ## Materiais úteis e + instruções
 
