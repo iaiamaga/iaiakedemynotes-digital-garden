@@ -9,14 +9,14 @@ tags:
 
 **TEMAS MAIS RECORRENTES** (ranqueados por frequência):
 
-|Rank|Tópico|Subtópico|Frequência (aparições aprox.)|Observações|
-|---|---|---|---|---|
-|1|Gêneros Textuais|Campanhas de Conscientização e Cartazes|14 questões|Foco em saúde, segurança no trânsito e problemas sociais.|
-|2|Tecnologias da Informação|Impacto das Redes Sociais e Internet|10 questões|Aborda comportamento digital, fake news e inclusão digital.|
-|3|Variação Linguística|Regionalismos e Norma-Padrão|8 questões|Analisa falares regionais e preconceito linguístico.|
-|4|Esporte e Saúde|Inclusão Social e Práticas Corporais|7 questões|Relação do esporte com cidadania e saúde pública.|
-|5|Literatura|Poesia e Prosa Moderna/Contemporânea|6 questões|Análise de estrutura, ritmo e intencionalidade.|
-|6|Artes e Patrimônio|Cultura Afro-brasileira e Arte Tátil|5 questões|Valorização da identidade e acessibilidade em museus.|
+| Rank | Tópico                    | Subtópico                               | Frequência (aparições aprox.) | Observações                                                 | NOTAS                                                                   |
+| ---- | ------------------------- | --------------------------------------- | ----------------------------- | ----------------------------------------------------------- | ----------------------------------------------------------------------- |
+| 1    | Gêneros Textuais          | Campanhas de Conscientização e Cartazes | 14 questões                   | Foco em saúde, segurança no trânsito e problemas sociais.   | [[Generos_textuais]]                                                    |
+| 2    | Tecnologias da Informação | Impacto das Redes Sociais e Internet    | 10 questões                   | Aborda comportamento digital, fake news e inclusão digital. | [[Tecnologia_informacao]]                                               |
+| 3    | Variação Linguística      | Regionalismos e Norma-Padrão            | 8 questões                    | Analisa falares regionais e preconceito linguístico.        | [[Variacao_linguistica]]<br>[[Fenomenos_linguisticos]]<br>[[Gramatica]] |
+| 4    | Esporte e Saúde           | Inclusão Social e Práticas Corporais    | 7 questões                    | Relação do esporte com cidadania e saúde pública.           | [[Esporte_saude]]                                                       |
+| 5    | Literatura                | Poesia e Prosa Moderna/Contemporânea    | 6 questões                    | Análise de estrutura, ritmo e intencionalidade.             | [[Literatura]]                                                          |
+| 6    | Artes e Patrimônio        | Cultura Afro-brasileira e Arte Tátil    | 5 questões                    | Valorização da identidade e acessibilidade em museus.       | [[Arte_patrimonio]]                                                     |
 
 **EXEMPLOS POR SUBTÓPICO:**
 
